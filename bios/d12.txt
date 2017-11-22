@@ -1,7 +1,3 @@
 Name: Nathaniel
 Program: N/A
 Fun Fact: I moved to Ottawa this month
-
-Name: David
-Program: Computer Science
-Fin Fact: I'm a mature student
